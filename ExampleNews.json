@@ -1,0 +1,59 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Asian shares stem recent losses, attention on cenbank tapering - Reuters",
+            "description": "Asian shares rallied on Friday after two days of losses, but were still in a nervous mood as global investors grapple with how best to interpret central banks' cautious moves to end stimulus, which also left currency markets quiet.",
+            "url": "https://www.reuters.com/business/global-markets-wrapup-1-2021-09-10/",
+            "urlToImage": "https://www.reuters.com/resizer/-RP9Ou_9bp2NAz9roikGN7wkP2w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PKBZ37CJKFKSPNMCK7QI774IXA.jpg",
+            "publishedAt": "2021-09-10T05:58:00Z",
+            "content": "A men wearing a mask walk at the Shanghai Stock Exchange building at the Pudong financial district in Shanghai, China, as the country is hit by an outbreak of a new coronavirus, February 3, 2020. REU… [+3264 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Canada federal election: Key takeaways from the debate - BBC News",
+            "description": "Five party leaders made their pitch on leadership, climate, reconciliation and Covid recovery.",
+            "url": "https://www.bbc.com/news/world-us-canada-58495746",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1186C/production/_120488717_gettyimages-1235151771.jpg",
+            "publishedAt": "2021-09-10T04:49:39Z",
+            "content": "By Jessica MurphyBBC News, Toronto\r\nmedia caption\"Our allies are wondering where Canada's gone\"\r\nCanadian federal party leaders traded barbs over leadership, climate change and indigenous reconciliat… [+6147 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Cincinnati Enquirer"
+            },
+            "author": "Quinlan Bentley, The Enquirer",
+            "title": "Lockdown lifted at Wright-Patterson Air Force Base after report of an active shooter - The Cincinnati Enquirer",
+            "description": "Wright-Patterson Air Force Base is on lockdown following a report of an active shooting Thursday night.",
+            "url": "https://www.cincinnati.com/story/news/2021/09/09/wright-patterson-air-force-base-lockdown-due-report-active-shooter/8268483002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2018/08/02/PCIN/860f8461-bd32-48b0-a8fb-4a33d7838290-Wright-Patt_base.JPG?auto=webp&crop=776,437,x0,y0&format=pjpg&width=1200",
+            "publishedAt": "2021-09-10T04:41:15Z",
+            "content": "Update, 1:37 a.m.: An \"all-clear alert\" was given following a lockdown that began at Wright-Patterson Air Force Base Thursday night. The lockdown was lifted shortly after 1:30 a.m. early Friday morni… [+3059 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Evelyn Cheng",
+            "title": "Biden, Xi discuss avoiding confrontation in second phone call of new U.S. administration - CNBC",
+            "description": "Chinese President Xi Jinping and U.S. President Joe Biden spoke for the first time since February on Friday.",
+            "url": "https://www.cnbc.com/2021/09/10/us-biden-china-xi-discuss-avoiding-confrontation.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106839128-16130489392021-02-11t042506z_247102557_rc24ql9ir87z_rtrmadp_0_usa-china.jpeg?v=1613048981",
+            "publishedAt": "2021-09-10T04:36:17Z",
+            "content": "Chinese President Xi Jinping shakes hands with U.S. Vice President Joe Biden (L) inside the Great Hall of the People in Beijing December 4, 2013.\r\nBEIJING Chinese President Xi Jinping and U.S. Presid… [+3058 chars]"
+        }
+       
+    ]
+}
