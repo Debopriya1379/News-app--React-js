@@ -5,7 +5,7 @@ import './Navbar.css';
 export class Navbar extends Component {
     render() {
         return (
-            <div id="navbar">
+            <div id="navbar" className="fixed-top">
                 <Link to="/">Home</Link> 
                 <Link to="/health">Health</Link>
                 <Link to="/business">Business</Link>

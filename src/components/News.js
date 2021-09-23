@@ -44,7 +44,7 @@ function News(props) {
 
     return (
         <>
-            <h2 className="text-center bg-primary p-2">Today's Top {capitalizeFirstLetter(props.category)} Headlines</h2>
+            <h2 className="text-center bg-primary p-2" style={{marginTop: "45px"}}>Today's Top {capitalizeFirstLetter(props.category)} Headlines</h2>
             {Loading && <Spinner />}
             <InfiniteScroll
                 dataLength={Articles.length}
