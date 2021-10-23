@@ -40,11 +40,12 @@ function News(props) {
 
     useEffect(() => {
         updateNews();
+        // eslint-disable-next-line
     }, [])
 
     return (
         <>
-            <h2 className="text-center bg-primary p-2" style={{marginTop: "45px"}}>Today's Top {capitalizeFirstLetter(props.category)} Headlines</h2>
+            <h2 className="text-center position-relative bg-primary p-2">Today's Top {capitalizeFirstLetter(props.category)} Headlines</h2>
             {Loading && <Spinner />}
             <InfiniteScroll
                 dataLength={Articles.length}
@@ -52,7 +53,7 @@ function News(props) {
                 hasMore={Articles.length !== totalresults}
                 loader={<Spinner />}
             >
-                <div className="container m-auto p-0">
+                <div className="container position-relative m-auto p-0">
                     <div className="row">
                         {!Loading && Articles.map((element) => {
                             return <div className="col-md-4 text-center d-flex justify-content-around" key={element.url}>
